@@ -35,7 +35,8 @@ public class Principal {
         System.out.printf("Fabricante: %s%n", meuCarro.fabricante);
         System.out.printf("Ano: %d%n", meuCarro.anoFabricacao);
         System.out.printf("Proprietário: %s%n", meuCarro.proprietario.nome);
-        meuCarro.calcularValorRevenda();
+        System.out.printf("Valor IPVA: %6.2f%n", meuCarro.calcularIpva());
+        meuCarro.imprimirResumoDepreciacao();
 
         System.out.println("------------------------------------------------");
 
@@ -43,7 +44,9 @@ public class Principal {
         System.out.printf("Fabricante: %s%n", seuCarro.fabricante);
         System.out.printf("Ano: %d%n", seuCarro.anoFabricacao);
         System.out.printf("Proprietário: %s%n", seuCarro.proprietario.nome);
-        seuCarro.calcularValorRevenda();
+        System.out.printf("Valor IPVA: %6.2f%n", seuCarro.calcularIpva());
+        seuCarro.imprimirResumoDepreciacao();
+
 
     }
 }

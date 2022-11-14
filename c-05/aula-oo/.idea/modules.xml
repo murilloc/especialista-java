@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aula-oo.iml" filepath="$PROJECT_DIR$/aula-oo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora-imc/calculadora-imc.iml" filepath="$PROJECT_DIR$/calculadora-imc/calculadora-imc.iml" />
       <module fileurl="file://$PROJECT_DIR$/clinica/clinica.iml" filepath="$PROJECT_DIR$/clinica/clinica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-composicao/desafio-composicao.iml" filepath="$PROJECT_DIR$/desafio-composicao/desafio-composicao.iml" />
     </modules>
   </component>
 </project>
