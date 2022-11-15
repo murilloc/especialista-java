@@ -2,7 +2,7 @@ public class Principal {
 
     public static void main(String[] args) {
 
-        Aeronave aviaoGol = new Aeronave();
+        final var aviaoGol = new Aeronave();
 
         aviaoGol.totalAssentos = 100;
         aviaoGol.ativar();
@@ -15,7 +15,7 @@ public class Principal {
 
         //-------------------------------------------------------
 
-        Aeronave aviaoLatam = new Aeronave();
+        final var aviaoLatam = new Aeronave();
 
         aviaoLatam.totalAssentos = 120;
         aviaoLatam.ativar();
