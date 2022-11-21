@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/aula-oo.iml" filepath="$PROJECT_DIR$/aula-oo.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/boas-praticas/boas-praticas.iml" filepath="$PROJECT_DIR$/arrays/boas-praticas/boas-praticas.iml" />
       <module fileurl="file://$PROJECT_DIR$/boas-praticas-clean-code/boas-praticas-clean-code.iml" filepath="$PROJECT_DIR$/boas-praticas-clean-code/boas-praticas-clean-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciamento-memoria/boas-praticas-memoria/boas-praticas-memoria.iml" filepath="$PROJECT_DIR$/gerenciamento-memoria/boas-praticas-memoria/boas-praticas-memoria.iml" />
       <module fileurl="file://$PROJECT_DIR$/boas-prtaticas-wrappers-boxing/boas-prtaticas-wrappers-boxing.iml" filepath="$PROJECT_DIR$/boas-prtaticas-wrappers-boxing/boas-prtaticas-wrappers-boxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora-imc/calculadora-imc.iml" filepath="$PROJECT_DIR$/calculadora-imc/calculadora-imc.iml" />
       <module fileurl="file://$PROJECT_DIR$/clinica/clinica.iml" filepath="$PROJECT_DIR$/clinica/clinica.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/desafio-sobrecarga/desafio-sobrecarga.iml" filepath="$PROJECT_DIR$/desafio-sobrecarga/desafio-sobrecarga.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-varargs/desafio-varargs.iml" filepath="$PROJECT_DIR$/desafio-varargs/desafio-varargs.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-wrapper-boxing/desafio-wrapper-boxing.iml" filepath="$PROJECT_DIR$/desafio-wrapper-boxing/desafio-wrapper-boxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gerenciamento-memoria/gerenciamento-memoria.iml" filepath="$PROJECT_DIR$/gerenciamento-memoria/gerenciamento-memoria.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/iteracao/iteracao.iml" filepath="$PROJECT_DIR$/arrays/iteracao/iteracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/multidimensional/multidimensional.iml" filepath="$PROJECT_DIR$/arrays/multidimensional/multidimensional.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/objetos/objetos.iml" filepath="$PROJECT_DIR$/arrays/objetos/objetos.iml" />
