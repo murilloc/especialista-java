@@ -1,0 +1,25 @@
+import java.util.Objects;
+
+public class Produto {
+
+    static final int QUANTIDADE_ESTOQUE_INICIAL = 100;
+
+    int quantidadeEstoque;
+    String nome;
+
+    public Produto() {
+        this.nome = "Sem nome";
+        this.quantidadeEstoque = QUANTIDADE_ESTOQUE_INICIAL;
+    }
+
+    Produto(String nome) {
+        this.nome = nome;
+        this.quantidadeEstoque = QUANTIDADE_ESTOQUE_INICIAL;
+
+    }
+
+    public Produto(String nome, int quantidadeEstoque) {
+        this.quantidadeEstoque = quantidadeEstoque;
+        this.nome = nome;
+    }
+}
