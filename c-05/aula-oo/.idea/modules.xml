@@ -21,15 +21,19 @@
       <module fileurl="file://$PROJECT_DIR$/desafio-composicao/desafio-composicao.iml" filepath="$PROJECT_DIR$/desafio-composicao/desafio-composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-construtores/desafio-construtores.iml" filepath="$PROJECT_DIR$/desafio-construtores/desafio-construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-menbros-estaticos/desafio-menbros-estaticos.iml" filepath="$PROJECT_DIR$/desafio-menbros-estaticos/desafio-menbros-estaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-pacotes-e-modificadores-acesso/desafio-pacotes-e-modificadores-acesso.iml" filepath="$PROJECT_DIR$/desafio-pacotes-e-modificadores-acesso/desafio-pacotes-e-modificadores-acesso.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-sobrecarga/desafio-sobrecarga.iml" filepath="$PROJECT_DIR$/desafio-sobrecarga/desafio-sobrecarga.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-varargs/desafio-varargs.iml" filepath="$PROJECT_DIR$/desafio-varargs/desafio-varargs.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-wrapper-boxing/desafio-wrapper-boxing.iml" filepath="$PROJECT_DIR$/desafio-wrapper-boxing/desafio-wrapper-boxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/construtores/encadeamento-de-chamadas/encadeamento-de-chamadas.iml" filepath="$PROJECT_DIR$/construtores/encadeamento-de-chamadas/encadeamento-de-chamadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/gerenciamento-memoria/gerenciamento-memoria.iml" filepath="$PROJECT_DIR$/gerenciamento-memoria/gerenciamento-memoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacotes/importacao/importacao.iml" filepath="$PROJECT_DIR$/pacotes/importacao/importacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/iteracao/iteracao.iml" filepath="$PROJECT_DIR$/arrays/iteracao/iteracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/modificador-final/modificador-final.iml" filepath="$PROJECT_DIR$/construtores/modificador-final/modificador-final.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/multidimensional/multidimensional.iml" filepath="$PROJECT_DIR$/arrays/multidimensional/multidimensional.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/objetos/objetos.iml" filepath="$PROJECT_DIR$/arrays/objetos/objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/ordenacao/ordenacao.iml" filepath="$PROJECT_DIR$/arrays/ordenacao/ordenacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pacotes/pacotes.iml" filepath="$PROJECT_DIR$/pacotes/pacotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/parametros/parametros.iml" filepath="$PROJECT_DIR$/arrays/parametros/parametros.iml" />
       <module fileurl="file://$PROJECT_DIR$/portaria/portaria.iml" filepath="$PROJECT_DIR$/portaria/portaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/precificacao/precificacao.iml" filepath="$PROJECT_DIR$/precificacao/precificacao.iml" />
@@ -37,6 +41,8 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/to-string/to-string.iml" filepath="$PROJECT_DIR$/arrays/to-string/to-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/construtores/validacao/validacao.iml" filepath="$PROJECT_DIR$/construtores/validacao/validacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/varargs/varargs.iml" filepath="$PROJECT_DIR$/arrays/varargs/varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visibilidade-private/visibilidade-private.iml" filepath="$PROJECT_DIR$/visibilidade-private/visibilidade-private.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visibilidade-public/visibilidade-public.iml" filepath="$PROJECT_DIR$/visibilidade-public/visibilidade-public.iml" />
       <module fileurl="file://$PROJECT_DIR$/wrapper-boxing/wrapper-boxing.iml" filepath="$PROJECT_DIR$/wrapper-boxing/wrapper-boxing.iml" />
     </modules>
   </component>
